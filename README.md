@@ -42,7 +42,7 @@ chmod +x Downloads/program_name
 
 If you want the code to study or modify something, run this command in your terminal. Have fun
 ```bash
-git clone https://github.com/Matheus-de-Freitas-Xavier/bmi-calculator
+git clone https://github.com/mxavier-dev/bmi-calculator
 ```
 
 ## 📫 Contact
