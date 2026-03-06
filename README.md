@@ -20,23 +20,8 @@ A desktop application to calculate **Body Mass Index (BMI)** developed in Python
   
 ## 📸 Preview
 
-<img width="250" height="330" alt="screenshot" src="https://github.com/user-attachments/assets/4cea1f1b-1506-4325-b6e6-af34a1cd45af" />
-
-## 📥 Download
-
-You can download the ready-to-use executable in the [Releases](https://github.com/mxavier-dev/bmi-calculator/releases/tag/v.1.0.0) section.
-
-### :penguin: For Linux User
-
-Click on one of the links below to download:<br>
-- [English version](https://github.com/mxavier-dev/bmi-calculator/releases/download/v.1.0.0/BMI_calculator)<br>
-- [Brazilian Portuguese version](https://github.com/mxavier-dev/bmi-calculator/releases/download/v.1.0.0/Calculadora_IMC)
-
-<br>If you are on linux, download the program and will probably need permission for the program to run.
-Run this command in your terminal.
-```bash
-chmod +x Downloads/program_name
-```
+<img width="250" height="330" alt="screenshot" src="https://github.com/user-attachments/assets/4cea1f1b-1506-4325-b6e6-af34a1cd45af" /><br>
+*Main interface of the bmi calculator*
 
 ## :book: Code
 
