@@ -6,6 +6,7 @@ A desktop application to calculate **Body Mass Index (BMI)** developed in Python
 
 - **Accurate Calculation:** Computes BMI using the formula: `weight / (height²)` .
 - **Dynamic Visual Feedback:** Results are color-coded (Green, Yellow, Orange, Red) according to BMI categories.
+- **Input validation:** Ensures only valid numbers are entered.
 - **Smart Input Handling:** 
   - Automatically replaces commas with dots for decimal values.
   - Robust error handling for invalid entries (letters or empty fields).
